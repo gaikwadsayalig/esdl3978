@@ -9,3 +9,7 @@ int add (int p,int q)
 {
   return p+q;
 }
+int sub (int p,int q)
+{
+  return p-q;
+}
